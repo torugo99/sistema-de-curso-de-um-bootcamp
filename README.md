@@ -12,7 +12,7 @@ Prática Programação Orientada a Objetos, feito totalmente para meus estudos e
 
 - [x] Vamos ABSTRAIR o DOMÍNIO Bootcamp e MODELAR seus ATRIBUTOS E MÉTODOS
 - [x] Criaremos as CLASSES: Bootcamp, Cursos, Mentorias e Devs e vamos relaciona-las
-= [x] As CLASSES Curso, Mentoria e Devs também serão MODELADOS, ou seja, criaremos seus ATRIBUTOS E MÉTODOS
+- [x] As CLASSES Curso, Mentoria e Devs também serão MODELADOS, ou seja, criaremos seus ATRIBUTOS E MÉTODOS
 - [x] Para que o código fique mais legível e de fácil manutenção, iremos utilizar de algumas das ferramentas que o PARADIGMA DE ORIENTAÇÃO A OBJETOS (POO) nos oferece: ABSTRAÇÃO, ENCAPSULAMENTO, HERANÇA E POLIMORFISMO
 - [x] E para representar CLASSES que foram criadas e relacionadas, iremos transforma-las em OBJETOS
 
